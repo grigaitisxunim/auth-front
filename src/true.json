@@ -1,0 +1,88 @@
+{
+    "success": true,
+    "error": null,
+    "ticket": {
+        "date": "2017-05-01T06:28:48.815Z",
+        "deleted": false,
+        "status": 1,
+        "uid": 15025,
+        "_id": "5906d5a0fe0710942be61c55",
+        
+        "comments": [
+            {
+                "owner": {
+                    "_id": "57f59e306067d1d40764bdb1",
+                    "username": "demo.user",
+                    "fullname": "Demo User",
+                    "email": "demo@demo.com",
+                    "role": "admin",
+                    "title": "",
+                    "image": "aProfile_demo.user.png"
+                },
+                "date": "2017-05-01T06:29:29.402Z",
+                "comment": "<p>Got it</p>\n",
+                "_id": "5906d5c9fe0710942be61c5c",
+                "deleted": false
+            }
+        ],
+        "notes": [],
+        "attachments": [],
+        "history": [
+            {
+                "action": "ticket:created",
+                "description": "Ticket was created.",
+                "owner": {
+                    "_id": "57f59e306067d1d40764bdb1",
+                    "username": "demo.user",
+                    "fullname": "Demo User",
+                    "email": "demo@demo.com",
+                    "role": "admin",
+                    "title": "",
+                    "image": "aProfile_demo.user.png"
+                },
+                "_id": "5906d5a0fe0710942be61c56",
+                "date": "2017-05-01T06:28:48.818Z"
+            }
+        ],
+        "subscribers": [
+            {
+                "_id": "57f59e306067d1d40764bdb1",
+                "username": "demo.user",
+                "fullname": "Demo User",
+                "email": "demo@demo.com",
+                "role": "admin",
+                "title": "",
+                "image": "aProfile_demo.user.png"
+            }
+        ],
+        "updated": "2017-08-09T06:29:23.184Z",
+        "assignee": {},
+        "closedDate": null,
+        "group": {
+            "_id": "57c4789c8bfd267c0383acd1",
+            "name": "Administrators",
+            "public": false,
+            "sendMailTo": [
+                "57c4789c8bfd267c0383acd2"
+            ],
+            "members": [
+                "5896bccc67b4a730278e8fd6"
+            ]
+        },
+        "issue": "<p>Testing ticket creatation from phone</p>\n",
+        "subject": "Test from phone",
+        "type": {
+            "_id": "57c4789c8bfd267c0383acd0",
+            "name": "Task"
+        },
+        "owner": {
+            "_id": "57f59e306067d1d40764bdb1",
+            "username": "demo.user",
+            "fullname": "Demo User",
+            "email": "demo@demo.com",
+            "role": "admin",
+            "title": "",
+            "image": "aProfile_demo.user.png"
+        }
+    }
+}
